@@ -1,0 +1,1 @@
+# We'll try to implement design patterns in python here 
